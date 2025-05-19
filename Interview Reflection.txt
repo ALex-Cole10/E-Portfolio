@@ -1,0 +1,52 @@
+# Interview Preparation Reflection  
+Alex Cole  
+University of St. Thomas – Computer Science
+
+---
+
+### 1. Tell me about a time you faced a major technical obstacle. How did you resolve it?
+
+During my internship, I faced a serious issue where an application that was supposed to move backup database files from one computer to a shared network drive wasn’t working. This was a huge risk because the backups were being stored on the same machine as the live database. If that computer crashed, we would lose both the database and its backups. 
+
+I had to dig into the code, investigate the Windows Task Scheduler configuration, and test multiple fixes over the course of several days. Eventually, I found that the issue was related to the application's access to the shared network drive—it wasn’t properly authenticated. Once I fixed the network permissions and updated the scheduled task settings, everything started working again. It was a great learning experience in persistence, troubleshooting, and system-level debugging.
+
+---
+
+### 2. Describe a situation where you had to collaborate with someone very different from you.
+
+As a youth soccer coach, I had to plan training sessions for U8–U10 players with another coach who had a very different philosophy than mine. He believed that all drills should be game-like and focused on decision-making, with no isolated technical drills. I believe in a more balanced approach, where we include technical drills—at least for 15 minutes—to build muscle memory and improve ball control.
+
+We had to compromise and communicate clearly to plan sessions that met both our goals. This experience taught me the value of respectful collaboration and finding common ground even when our approaches differ.
+
+---
+
+### 3. What’s a non-technical skill you’ve developed that you’re most proud of?
+
+The non-technical skill I’m most proud of is communication. Playing Division I soccer, coaching, working, and going to college introduced me to people from all kinds of backgrounds. I’ve learned how to talk with anyone, build rapport, and express my ideas clearly.
+
+Being able to hold a conversation confidently, especially in unfamiliar or professional settings, is a huge strength. It helps in interviews, teamwork, leadership, and day-to-day life. It’s a skill I’ll always keep working on and using.
+
+---
+
+### 4. How do you manage your time and priorities when deadlines overlap?
+
+When I have multiple deadlines, the first thing I do is ask my manager or lead which project is the highest priority. Once I know that, I shift most of my time and focus toward the most important task, while still making progress on the others.
+
+I also break up my schedule into chunks, focusing on one task at a time for short blocks. This helps me avoid feeling overwhelmed and keeps me moving forward on everything without letting anything fall behind.
+
+---
+
+### 5. Have you ever led a project or taken initiative on a team?
+
+Yes, I led a project where we had to build a data analytics dashboard in Microsoft Power BI using Netflix viewing data. I took the initiative to clean and prepare all the data, build the visuals, and create a clean and understandable dashboard for viewers.
+
+I also helped guide the team’s direction and made sure the final product was polished and professional. It was a good example of taking ownership and seeing a project through from start to finish.
+
+---
+
+### 6. What’s something new you learned on your own that really impacted your work?
+
+I taught myself C++ on my own time, and it made a huge difference in how I understand programming. Since C++ is lower-level than languages like Python or Java, it gave me a better understanding of how computers actually work under the hood—memory, pointers, performance, etc.
+
+This deeper understanding has made me a better programmer in every language. It’s helped me write more efficient, intentional code and made me a stronger problem-solver overall.
+
