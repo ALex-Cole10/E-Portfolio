@@ -39,6 +39,8 @@ A fully functional chess application built with C++ and Qt. The program supports
 A web-based documentation assistant designed to help entry-level IT professionals and software engineers create clean and readable technical documentation using AI.  
 Built using Next.js, TypeScript, TailwindCSS, Python (FastAPI), and PostgreSQL. AI integration powered by OpenAI API.
 
+My contributions included building the rich text editor, connecting the editor to openAI through the API, and building the database. 
+
 **Figure:**  
 ![EZDocs Screenshot](./images/ezdocs.png) <!-- Replace with actual image path -->
 
